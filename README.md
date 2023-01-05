@@ -1,3 +1,2 @@
 # docker-course-2
-
-Simple application for Assignent
+Simple application for Course Assignment
